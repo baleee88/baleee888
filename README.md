@@ -218,7 +218,7 @@ Riset **prediksi harga crypto** & trading bot: feature engineering → backtesti
 
 ```text
   ┌─────────┐    ┌──────────┐    ┌─────────┐    ┌──────────┐    ┌──────────┐
-  │   PRD   │ ─▶ │  DESAIN  │ ─▶ │  FASE   │ ─▶ │   TEST   │ ─▶ │  DEPLOY  │
+  │   PRD   │ ─▶   DESAIN  │ ─▶ │  FASE   │ ─▶│   TEST   │ ─▶ │  DEPLOY  │
   │ masalah │    │ arsitek. │    │ bertahap│    │ & review │    │ VPS/host │
   └─────────┘    └──────────┘    └─────────┘    └──────────┘    └──────────┘
 ```
